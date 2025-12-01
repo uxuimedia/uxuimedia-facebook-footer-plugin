@@ -1,2 +1,2 @@
-# uzabila-facebook-plugin
-Uzabila Facebook Link in footer plugin for Wordpress
+# uxuimedia-facebook-plugin
+"Facebook Link in footer" plugin for Wordpress CMS
